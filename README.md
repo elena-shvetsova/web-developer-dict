@@ -8,5 +8,5 @@ web-developer-dict
 
 Алфавит
 
-[d](D.md)
-[g](g.md)
+* [d](D.md)
+* [g](g.md)
