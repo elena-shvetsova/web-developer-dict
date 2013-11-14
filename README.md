@@ -9,3 +9,4 @@ web-developer-dict
 Алфавит
 
 [d](D.md)
+[g](g.md)
